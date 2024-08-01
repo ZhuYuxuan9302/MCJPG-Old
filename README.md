@@ -1,6 +1,6 @@
-# 服务器集体宣传组织
+# 服务器集体宣传社区组织
 
-这里是Minecraft服务器集体宣传组织 (MSJPG)！
+这里是一个Minecraft服务器集体宣传社区组织 (MSJPG)！
 一个致力于我的世界服务器宣传和技术交流的新兴组织。
 
 [加入集宣组织](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=SLn_dDww45TQawEUWHQH_Mmqg_25DBrx&authKey=uJMORZTXS5qHzVX7M1HM0hn%2Fc8xJfciatjKS90b6cIGpwRj%2FJciTON4bIHiNrtsG&noverify=0&group_code=983551769)
