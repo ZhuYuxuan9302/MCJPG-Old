@@ -1,9 +1,9 @@
 # 服务器集体宣传组织
 
-这里是Minecraft服务器集体宣传组织 (MSCPO)！
+这里是Minecraft服务器集体宣传组织 (MSJPG)！
 一个致力于我的世界服务器宣传和技术交流的新兴组织。
 
-[加入集宣组织](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-ha-O_RHEHGVRN9NAZem0ERNmHe7T51C&authKey=1Xb0FkaaJ1VwawDAZQIDz4eGFi6I32VMj6zN5pMgusmRBq%2FDhipJirNgXqHgQ51W&noverify=0&group_code=715969715)
+[加入集宣组织](https://qm.qq.com/q/IYXWBvyHS0)
 
 ## 提交服务器
 
