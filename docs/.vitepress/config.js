@@ -12,7 +12,7 @@ export default {
         description: '一个Minecraft服务器集体宣传组织',//Minecraft Server Collective Promotion Organization
         nav: [
             { text: "成员服", link: "/" },
-            { text: "须知", link: "/rules/" },
+            { text: "规则", link: "/rules/" },
             { text: "组织架构", link: "/structure/" },
         ],
         socialLinks: [
