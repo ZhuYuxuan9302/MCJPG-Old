@@ -45,7 +45,7 @@ features:
     linkText: 加入MCIC!
   - icon:
       src: https://api.flweb.cn/logos/MCWP/server-icon.png
-    title: MC WindyPear高版本互通生电
+    title: MC WindyPear高版本互通社区服
     details: 客户端版本：JAVA1.9-1.21</br>基岩最新版</br>无正版无白名单，littleskin登录</br>风梨团队倾心打造
     link: https://go.flweb.cn/qunmcwp
     linkText: 加入MC WindyPear!
