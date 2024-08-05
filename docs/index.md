@@ -2,18 +2,18 @@
 layout: home
 
 hero:
-  name: 服务器集体宣传组织
-  tagline: Minecraft服务器集体宣传组织 (MSCPO)</br>一个致力于我的世界服务器宣传和技术交流的新兴组织（×）服主同好群（√）
+  name: MCJPG服务器集体宣传组织
+  tagline: Minecraft服务器集体宣传组织 (MSJPG)</br>一个致力于Minecraft服务器宣传和技术交流社区的新兴组织
   image:
     src: /logo.png
     alt: 服务器集体宣传组织
   actions:
     - theme: brand
-      text: 加入玩家群
-      link: https://qm.qq.com/q/LaTnA2vXyK
+      text: 加入社区群组
+      link: https://qm.qq.com/q/C9K1fV3pSM
     - theme: alt
-      text: 加入组织
-      link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-ha-O_RHEHGVRN9NAZem0ERNmHe7T51C&authKey=1Xb0FkaaJ1VwawDAZQIDz4eGFi6I32VMj6zN5pMgusmRBq%2FDhipJirNgXqHgQ51W&noverify=0&group_code=715969715
+      text: 加入服主组织(需通过社区审核)
+      link: https://qm.qq.com/q/wIJMz1SBjk
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
