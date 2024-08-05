@@ -28,6 +28,12 @@ const Server = [
     title: '技术支持',
     desc: '基础的技术问题解决（雾），MCWP服务器腐竹，风梨团队创始人（）',
   },
+{
+    avatar: '/teammate/2/WERTYUS11.jpg',
+    name: 'WERTYUS11',
+    title: '小小宣传员',
+    desc: 'HappyDog服务器腐竹，啥都会但啥都不精通（）（）会Replay和Bcut',
+  },
 ]
 </script>
 
