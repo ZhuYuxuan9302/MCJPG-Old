@@ -2,7 +2,7 @@
 :root {
     /* 标题 */
     --vp-home-hero-name-color: transparent;
-    --vp-home-hero-name-background: linear-gradient( 135deg, #206ec7 10%, #0004fa 100%);
+    --vp-home-hero-name-background: linear-gradient( 135deg, #00FFE0 10%, #EB00FF 100%);
     
     /* 图标背景 */
     --vp-home-hero-image-background-image: linear-gradient( 135deg, #98c76d 10%, #45b6ad 100%);
