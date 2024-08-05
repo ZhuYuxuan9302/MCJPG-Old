@@ -20,9 +20,9 @@ hero:
 
 features:
   - icon:
-      src: /server_icons/MC生电服.png
+      src: /server_icons/MC Shengdian.png
     title: MC生电服
-    details: 多版本支持 原生1.20.4 趣味的生电 便捷的菜单操作 不限制传送 独家优化的整合包
+    details: 多版本支持 原生1.20.4 趣味的生电 便捷的菜单操作 不限制传送 独家优化的整合包 无需正版
     link: https://qm.qq.com/q/QhfzwbV82Y
     linkText: 加入我们!
   - icon:
