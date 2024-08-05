@@ -20,7 +20,7 @@ export default {
         ],
         footer: {
             message: 'Minecraft Server Collective Promotion Organization',
-            copyright: '-Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://zhuyuxuan.link/">编辑的网站</a>-'
+            copyright: '-Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://zhuyuxuan.link/">编辑的网站</a>'
         },
         lastUpdatedText: "最近更新时间",
         search: {

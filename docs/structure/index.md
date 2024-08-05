@@ -17,12 +17,6 @@ const Server = [
     desc: '为MCJPG的网站编写，服务器插件维护做出了巨大贡献 | MC生电服腐竹',
   },
   {
-    avatar: '/teammate/2/白千琴.jpg',
-    name: '白千琴',
-    title: '会长',
-    desc: '在MSCPO第二次公开选举中票数第一，OURCRAFT（予巧）团队代表，同时也是OURCRAFT服务器腐竹、OURCRAFT委员会总执事',
-  },
-  {
     avatar: '/teammate/2/Ленинград.jpg',
     name: 'Ленинград',
     title: '网站作者',
