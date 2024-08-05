@@ -22,6 +22,12 @@ const Server = [
     title: '网站作者',
     desc: '为MCJPG网站提供了源码级的技术支持',
   },
+{
+    avatar: 'https://api.flweb.cn/logos/my/fireguo.png',
+    name: 'FireGuo',
+    title: '技术支持',
+    desc: '基础的技术问题解决（雾），MCWP服务器腐竹，风梨团队创始人（）',
+  },
 ]
 </script>
 
