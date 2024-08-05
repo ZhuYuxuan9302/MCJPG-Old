@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: MCJPG服务器集体宣传组织
-  tagline: Minecraft服务器集体宣传组织 (MSJPG)</br>一个致力于Minecraft服务器宣传和技术交流社区的新兴组织
+  tagline: Minecraft服务器集体宣传组织 (MCJPG)</br>一个致力于Minecraft服务器宣传和技术交流社区的新兴组织
   image:
     src: /logo.png
     alt: 服务器集体宣传组织
