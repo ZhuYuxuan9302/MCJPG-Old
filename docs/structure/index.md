@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MCJPG
+title: 组织架构
 ---
 <script setup>
 import {

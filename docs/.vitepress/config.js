@@ -2,7 +2,7 @@ export default {
     head: [
         ['link', { rel: 'icon', href: '/logo2.png' }],
     ],
-    title: 'MCJPG组织',
+    title: 'MCJPG组织网站',
     lastUpdated: true,
     description: 'Minecraft服务器集体宣传组织 (MSJPG)-一个致力于Minecraft服务器宣传和技术交流社区的新兴组织',
     lang: 'zh-CN',
