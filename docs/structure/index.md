@@ -31,7 +31,7 @@ const Server = [
 {
     avatar: '/teammate/2/WERTYUS11.jpg',
     name: 'WERTYUS11',
-    title: '小小宣传员',
+    title: '宣传员',
     desc: 'HappyDog服务器腐竹，啥都会但啥都不精通（）（）会Replay和Bcut',
   },
 ]
