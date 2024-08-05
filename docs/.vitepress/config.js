@@ -14,13 +14,19 @@ export default {
             { text: "成员服", link: "/" },
             { text: "规则", link: "/rules/" },
             { text: "组织架构", link: "/structure/" },
+            {
+              text: "友情连接",
+              items: [
+                { text: "随风的个人网站", link: "https://zhuyuxuan.link/" },
+              ]
+            }
         ],
         socialLinks: [
             { icon: "github", link: "https://github.com/ZhuYuxuan9302/MCJPG" },
         ],
         footer: {
             message: 'MCJPG服务器联合组织',
-            copyright: 'Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://zhuyuxuan.link/">编辑的网站</a>'
+            copyright: 'Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://github.com/ZhuYuxuan9302/MCJPG">我们的仓库</a>'
         },
         lastUpdatedText: "最近更新时间",
         search: {
