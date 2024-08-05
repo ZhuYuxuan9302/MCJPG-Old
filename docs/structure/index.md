@@ -15,7 +15,6 @@ const Server = [
     name: '随风潜入夜',
     title: '技术支持',
     desc: '为MCJPG的网站编写，服务器插件维护做出了巨大贡献 | MC生电服腐竹',
-    link: https://zhuyuxuan.link
   },
   {
     avatar: '/teammate/2/Ленинград.jpg',
