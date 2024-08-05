@@ -19,8 +19,8 @@ export default {
             { icon: "github", link: "https://github.com/ZhuYuxuan9302/MCJPG" },
         ],
         footer: {
-            message: 'Minecraft Server Collective Promotion Organization',
-            copyright: '-Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://zhuyuxuan.link/">编辑的网站</a>'
+            message: 'MCJPG服务器联合组织',
+            copyright: 'Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://zhuyuxuan.link/">编辑的网站</a>'
         },
         lastUpdatedText: "最近更新时间",
         search: {
