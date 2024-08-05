@@ -2,12 +2,12 @@ export default {
     head: [
         ['link', { rel: 'icon', href: '/logo2.png' }],
     ],
-    title: '服务器集体宣传组织',
+    title: 'MCJPG组织',
     lastUpdated: true,
     description: 'Minecraft服务器集体宣传组织 (MSJPG)-一个致力于Minecraft服务器宣传和技术交流社区的新兴组织',
     lang: 'zh-CN',
     themeConfig: {
-        siteTitle: '服务器集体宣传组织', //站点标题
+        siteTitle: 'MCJPG组织', //站点标题
         logo: "/logo2.png",
         description: '一个Minecraft服务器集体宣传组织',//Minecraft Server Collective Promotion Organization
         nav: [
@@ -20,7 +20,7 @@ export default {
         ],
         footer: {
             message: 'Minecraft Server Collective Promotion Organization',
-            copyright: '-Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://icp.mcsite.cc/mc/00000003.html">MCICP备案</a>-'
+            copyright: '-Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://zhuyuxuan.link/">编辑的网站</a>-'
         },
         lastUpdatedText: "最近更新时间",
         search: {

@@ -6,7 +6,7 @@ hero:
   tagline: Minecraft服务器集体宣传组织 (MCJPG)</br>一个致力于Minecraft服务器宣传和技术交流社区的新兴组织
   image:
     src: /logo.png
-    alt: 服务器集体宣传组织
+    alt: MCJPG组织
   actions:
     - theme: brand
       text: 加入社区群组
