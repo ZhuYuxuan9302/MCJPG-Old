@@ -9,15 +9,17 @@ export default {
     themeConfig: {
         siteTitle: 'MCJPG组织', //站点标题
         logo: "/logo2.png",
-        description: '一个Minecraft服务器集体宣传组织',//Minecraft Server Collective Promotion Organization
+        description: '一个Minecraft服务器集体宣传组织',//MCCPO
         nav: [
             { text: "成员服", link: "/" },
             { text: "规则", link: "/rules/" },
             { text: "组织架构", link: "/structure/" },
             {
-              text: "友情连接",
+              text: "友情链接",
               items: [
                 { text: "随风的个人网站", link: "https://zhuyuxuan.link/" },
+                { text: "金苹果论坛", link: "https://mcodw.com/" },
+                { text: "笨蛋开服指南", link: "https://yizhan.wiki/NitWikit/" }
               ]
             }
         ],
