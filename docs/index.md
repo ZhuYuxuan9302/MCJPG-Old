@@ -49,6 +49,12 @@ features:
     details: 客户端版本：JAVA1.9-1.21</br>基岩最新版</br>无正版无白名单，littleskin登录</br>风梨团队倾心打造
     link: https://go.flweb.cn/qunmcwp
     linkText: 加入MC WindyPear!
+  - icon:
+      src: 桦字云动--现实主义基岩特色生存
+    title: 桦字云动--现实主义基岩特色生存
+    details: 版本：基岩1.21.2-1.20 | 在游戏中，我们引入了更接近现实生活的合成配方和系统。所有的道具和物品都需要更复杂的材料和工艺，增加了游戏的深度和挑战性。</br>资源管理: 资源变得更加稀缺和珍贵，玩家需要更加小心地管理和利用资源，考验玩家的战略思维
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-zK1L63kZnjdFeZU2u7kBOGMhQgK7yfX&authKey=rMQ92V8gLBzHBPCAl%2FqILp58qZhdsL5mrHfyjMK%2Foc1EzVjWI8u8W1EfQPUpISzC&noverify=0&group_code=975992476
+    linkText: 开始你的世界，创造你的可能，加入我们！
 ---
 <script>
 export default {
