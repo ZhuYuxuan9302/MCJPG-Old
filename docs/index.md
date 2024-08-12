@@ -53,6 +53,12 @@ features:
     details: 版本：Java版1.21 兼容1.9~1.21 无需正版 玩家间互相传送 生电
     link: https://qm.qq.com/q/QePrFp3jeU
     linkText: 加入mcdogserver
+  - icon:
+      src: /server_icons/EternalStar.png
+    title: EternalStar (永恒星)
+    details: 版本：JAVA互通 | 1.20.4跨版本</br>群组服（纯净生存 + 小游戏 + 容易爆炸的RPG）</br>EternalStar旨在给玩家更好的游戏体验，即使我们曾经遇到过无数困难，但我们没有就此离去，在开始时我们甚至无法保证服务器正常连接，但现在我们已经拥有了强大的网络供应和顶流的服务器</br>EternalStar欢迎您！</br>愿美丽的繁星永远照耀着你
+    link: https://eternalstarmc.com:442/
+    linkText: 愿美丽的繁星永远照耀着你
 ---
 <script>
 export default {
