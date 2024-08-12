@@ -64,8 +64,7 @@ features:
     title: 石头世界
     details: 版本：基岩版1.21.1~1.21.3</br>石头世界，你的下一个我的世界基岩版服务器
     link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4AwZYTg4m8nsjyO2loDkUTx2Ph59VwVS&authKey=paun0bpKfXRJ7TWef%2FFLzV5tmx%2BaR%2BN3869Um2SOeYS8o%2FyuxqAzMdGIDruC76iA&noverify=0&group_code=744454929
-    linkText: 加入QQ群
-  ---
+    linkText: 加入QQ群----
 <script>
 export default {
   mounted() {
