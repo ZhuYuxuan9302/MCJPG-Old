@@ -19,7 +19,7 @@ export default {
               items: [
                 { text: "随风的个人网站", link: "https://zhuyuxuan.link/" },
                 { text: "金苹果论坛", link: "https://mcodw.com/" },
-                { text: "笨蛋开服指南", link: "https://yizhan.wiki/NitWikit/" }
+                { text: "笨蛋开服指南", link: "https://yizhan.wiki/NitWikit/" },
                 { text: "风梨影视", link: "https://v.flweb.cn/" }
               ]
             }
