@@ -65,6 +65,12 @@ features:
     details: 1.20.4~1.21多版本支持的服务器联合体!有地球服务器、史诗地形创造服务器、史诗地形生存服务器等等!欢迎你的加入!可以玩家间传送!
     link: https://qm.qq.com/q/v7FTqxD7NK
     linkText: 加入MCSC!
+  - icon:
+      src: /server_icons/繁星游戏堡FGCserver.png
+    title: 繁星游戏堡FGCserver
+    details: 版本:1.21 不互通 正版白名单 需审核</br>由多位中学生共同建立的完美世界——一个生电服务器。</br>我们内置了游戏内语音以及生电模组。需要正版。</br>一审进群，二审进服。（题很简单的啦）
+    link: https://www.bilibili.com/video/BV19pYReHEZ9
+    linkText: 前往视频链接
 ---
 <script>
 export default {
