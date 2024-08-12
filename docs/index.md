@@ -11,9 +11,6 @@ hero:
     - theme: brand
       text: 加入社区群组
       link: https://qm.qq.com/q/C9K1fV3pSM
-    - theme: alt
-      text: 加入服主组织(需通过社区审核)
-      link: https://qm.qq.com/q/wIJMz1SBjk
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
