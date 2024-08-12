@@ -59,7 +59,7 @@ features:
     details: 版本：JAVA互通 | 1.20.4跨版本</br>群组服（纯净生存 + 小游戏 + 容易爆炸的RPG）</br>EternalStar旨在给玩家更好的游戏体验，即使我们曾经遇到过无数困难，但我们没有就此离去</br>EternalStar欢迎您！
     link: https://eternalstarmc.com:442/
     linkText: 愿美丽的繁星永远照耀着你
-	- icon:
+ - icon:
       src: /server_icons/MCSC.png
     title: MCSC
     details: 1.20.4~1.21多版本支持的服务器联合体!有地球服务器、史诗地形创造服务器、史诗地形生存服务器等等!欢迎你的加入!可以玩家间传送!
