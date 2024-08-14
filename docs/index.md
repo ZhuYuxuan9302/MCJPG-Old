@@ -19,7 +19,7 @@ features:
   - icon:
       src: /server_icons/MC生电服.jpg
     title: MC生电服
-    details: 版本:原生1.20.4 兼容JE1.9~1.21和最新BE </br>游戏内语音聊天 随意喷涂 趣味的生电 便捷的菜单操作 不限制传送 </br>独家优化的整合包 </br>无需正版
+    details: 版本:原生1.21.1 兼容JE1.9~1.21.1和最新BE </br>游戏内语音聊天 随意喷涂 趣味的生电 便捷的菜单操作 不限制传送 </br>独家优化的整合包 </br>无需正版
     link: https://qm.qq.com/q/QhfzwbV82Y
     linkText: 加入我们!
   - icon:
