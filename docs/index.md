@@ -71,6 +71,18 @@ features:
     details: 版本:1.21 不互通 正版白名单 需审核</br>由多位中学生共同建立的完美世界——一个生电服务器。</br>我们内置了游戏内语音以及生电模组。需要正版。</br>一审进群，二审进服。（题很简单的啦）
     link: https://www.bilibili.com/video/BV19pYReHEZ9
     linkText: 前往视频链接
+  - icon:
+      src: /server_icons/Windy.jpg
+    title: Windy
+    details: 版本:JE1.8.9-1.21 兼容BE 生电服务器 正版服 无白名单 </br>有部分插件 比如传送 地图画 核心Leaves
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=D-M87RHXQrs3rTig3cmMsXKWyYHm9pES&authKey=eqhrG3fsx7RGpfp2RzjqzN%2FZ3r5a8%2Bh6WBHdZqanZrwah9Gji6a9FkpjuUuTwl%2Bt&noverify=0&group_code=758103687
+    linkText: 加入QQ群
+  - icon:
+      src: /server_icons/星梦桃源.png
+    title: 星梦桃源
+    details: 版本：1.12~1.21.1（基岩java互通）</br>专注于生存、生电、红石与建筑的原版插件服务器。</br>ps：需进入审核群审核成功方可进入。
+    link: https://xingmengtaoyuan.zeabur.app/
+    linkText: 前往官网
 ---
 <script>
 export default {
