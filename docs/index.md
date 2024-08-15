@@ -83,6 +83,12 @@ features:
     details: 版本：1.12~1.21.1（基岩java互通）</br>专注于生存、生电、红石与建筑的原版插件服务器。</br>ps：需进入审核群审核成功方可进入。
     link: https://xingmengtaoyuan.zeabur.app/
     linkText: 前往官网
+  - icon:
+      src: /server_icons/pcc.webp
+    title: Play Chess Club(简称PCC)
+    details: 版本：1.21.x（基岩java互通）</br> 欢迎来到PlayChessClub，一个温馨和谐的公益服务器。无论您是寻找稳定流畅的游戏体验，还是希望在友好的社区中结交新朋友，PCC都能足您的需求。从一周目到三周目，PCC一直致力于提供优质的生存以及特色玩法。诚邀您的加入！</br>点击后进入官网加入服务器！
+    link: https://www.mcpcc.fun
+    linkText: 加入PCC，与我们一起探索无限可能！
 ---
 <script>
 export default {
