@@ -25,7 +25,7 @@ features:
   - icon:
       src: /server_icons/MCODW.png
     title: MCODW 服务器
-    details: 版本：JAVA互通 | 1.20.1</br>leaves生电+粘液
+    details: 版本：JAVA互通 | 1.20.4</br>leaves生电+粘液
     link: https://mcyouxi.asia/
     linkText: 实现共产，奔赴未来！
   - icon:
