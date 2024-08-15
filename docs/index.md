@@ -21,7 +21,7 @@ features:
     title: MC生电服
     details: 版本:原生1.21.1 兼容JE1.9~1.21.1和最新BE </br>游戏内语音聊天 随意喷涂 趣味的生电 便捷的菜单操作 不限制传送 </br>独家优化的整合包 </br>无需正版
     link: https://qm.qq.com/q/QhfzwbV82Y
-    linkText: 加入我们!
+    linkText: 加入面包人大队!
   - icon:
       src: /server_icons/MCODW.png
     title: MCODW 服务器
@@ -89,6 +89,12 @@ features:
     details: 版本：1.21.x（基岩java互通）</br> 欢迎来到PlayChessClub，一个温馨和谐的公益服务器。无论您是寻找稳定流畅的游戏体验，还是希望在友好的社区中结交新朋友，PCC都能足您的需求。从一周目到三周目，PCC一直致力于提供优质的生存以及特色玩法。诚邀您的加入！</br>点击后进入官网加入服务器！
     link: https://www.mcpcc.fun
     linkText: 加入PCC，与我们一起探索无限可能！
+  - icon:
+      src: /server_icons/喵星乐园.jpg
+    title: 喵星乐园
+    details: JAVA1.7～最新版 支持离线登录</br> 插件半生存养老服</br> "探索梦幻宇宙，邂逅喵星奇缘！欢迎踏入喵星乐园服务器——一个插件生存世界。</br>喵星乐园，不仅是心灵的温馨港湾。与来自五湖四海的朋友相遇，共建和谐社区，分享喜乐与硕果。在这里，每一天都充满惊喜，每一次天都有奇妙的旅程。</br>加入我们，成为喵星乐园的成员，守护这份净土与美好，让爱与梦想在喵星乐园里绽放光彩！
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rrpMAK0HF34S9q0gj37oFCSrs-rLDuin&authKey=6sr%2BiS5vhBj10Ndkc%2BCxZ4IkO3F6bzgXf608QaQk4bmGyLQXT2wOw0l4mxKUpS09&noverify=0&group_code=965302154
+    linkText: 加入喵星乐园
 ---
 <script>
 export default {
