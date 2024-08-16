@@ -14,6 +14,7 @@ export default {
             { text: "成员服", link: "/" },
             { text: "规则", link: "/rules/" },
             { text: "组织架构", link: "/structure/" },
+            { text: "状态监测", link: "https://status.flweb.cn/" },
             {
               text: "友情链接",
               items: [
