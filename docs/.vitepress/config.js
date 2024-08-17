@@ -26,7 +26,7 @@ export default {
             }
         ],
         socialLinks: [
-            { icon: "github", link: "https://github.com/ZhuYuxuan9302/MCJPG" },
+            { icon: "github", link: "https://github.com/MineJPGcraft/MCJPG" },
         ],
         footer: {
             message: 'MCJPG服务器联合组织',
