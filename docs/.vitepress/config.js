@@ -26,11 +26,11 @@ export default {
             }
         ],
         socialLinks: [
-            { icon: "github", link: "https://github.com/ZhuYuxuan9302/MCJPG" },
+            { icon: "github", link: "https://github.com/MineJPGcraft/MCJPG" },
         ],
         footer: {
             message: 'MCJPG服务器联合组织',
-            copyright: 'Copyright © 2024-present <a href="https://mcjpg.zhuyuxuan.link/">MCJPG</a>— —<a href="https://github.com/ZhuYuxuan9302/MCJPG">我们的仓库</a>'
+            copyright: 'Copyright © 2024-present <a href="https://mcjpg.org/">MCJPG</a>— —<a href="https://github.com/MineJPGcraft/MCJPG">我们的仓库</a>'
         },
         lastUpdatedText: "最近更新时间",
         search: {
