@@ -101,6 +101,12 @@ features:
     details: 版本：JAVA | 1.21跨版本</br>这是一个纯生存java版服务器。然后？没了，嗯，没了。（你干嘛哎呦！）
     link: https://www.wslst.xyz/
     linkText: MLX落雪邀请你一起唱跳rap篮球！
+  - icon:
+      src: /server_icons/自由之风.png
+    title: FreeWind
+    details: 版本: 1.7-1.21.X </br>生电|互通|粘液科技|休闲|养老|非周目制|</br>探索未知，创造无限 —— 欢迎来到自由之风服务器，一个充满创新与冒险的虚拟世界。在这里，您可以：</br> 自由建造：利用无限的资源，建造您心中的理想家园或宏伟城堡。</br>科技实验：体验最前沿的粘液科技，让您的创造更加高效和智能。</br>冒险探索：深入未知的领域，寻找隐藏的宝藏，挑战强大的Boss。</br>加入我们，释放您的创造力，与玩家一起，共同打造一个独一无二的游戏世界。自由之风，等待您的加入！"</br>服务器地址103.85.86.51:11486
+    link: https://qm.qq.com/q/q51dtS4Kty
+    linkText: 期待您的加入
 ---
 <script>
 export default {
