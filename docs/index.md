@@ -127,6 +127,13 @@ features:
     details: 版本1.7-1.21 </br>生电 互通 粘液科技 休闲 养老 非周目制</br>探索未知，创造无限---欢迎来到自由之风服务器，一个充满创新与冒险的虚拟世界。在这里，您可以：</br> 自由建造：利用无限的资源，建造您心中的理想家园或宏伟城堡。</br>科技实验：体验最前沿的粘液科技，让您的创造更加高效和智能。</br>冒险探索：深入未知的领域，寻找隐藏的宝藏，挑战强大的Boss。</br>加入我们，释放您的创造力，与玩家一起，共同打造一个独一无二的游戏世界。自由之风，等待您的加入!</br>服务器地址103.85.86.51:11486
     link: https://qm.qq.com/q/q51dtS4Kty
     linkText: 期待您的加入 
+
+  - icon:
+      src: /server_icons/LiyuPlay.jpg
+    title: LiyuPlay
+    details: 版本1.20.2 不互通 离线可进</br>来LiyuPlay里体验在广袤世界探索生存的乐趣！</br>宁静祥和的午后垂钓，从零建立起自己的菜园，攻克自然生成的副本，用方块一点一点地改造这个世界……</br>在LiyuPlay里随心所欲。
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5YYyjfhRjWJVUF8pQMyFIp06zX5KuzzA&authKey=wQgtTF9nqLQTT9fkDuuOVDsj9PjbpRaMrk%2B6Cj0x7PQXRsFncbWFZ2edZBNC%2BBew&noverify=0&group_code=830231906
+    linkText: 加入LiyuPlay
 ---
 <script>
 export default {
