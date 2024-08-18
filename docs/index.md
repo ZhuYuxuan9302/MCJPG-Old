@@ -47,6 +47,36 @@ features:
     details: 版本：基岩版1.20~1.21.2 </br>在游戏中，我们引入了更接近现实生活的合成配方和系统。</br>所有的道具和物品都需要更复杂的材料和工艺，增加了游戏的深度和挑战性。
     link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-zK1L63kZnjdFeZU2u7kBOGMhQgK7yfX&authKey=rMQ92V8gLBzHBPCAl%2FqILp58qZhdsL5mrHfyjMK%2Foc1EzVjWI8u8W1EfQPUpISzC&noverify=0&group_code=975992476
     linkText: 开始你的世界，创造你的可能，加入我们！
+
+  - icon:
+      src: /server_icons/NBB.jpg
+    title: NBB原版生存生电服务器-无规则
+    details: 目前版本：1.21 </br>死亡标记
+</br>反作弊
+</br>IP地址NBB.aimc.cc
+</br>备用/国外218.93.208.200:25933
+</br>服务器每周天公开存档
+</br>如果您在服务器获得了成就想要获取存档进行备份可联系群主
+</br>轻量化传送插件不花里胡哨！
+</br>命令：
+</br>/tpa <玩家名>
+</br>请求传送到其他玩家
+</br>/tpaccept
+</br>同意传送请求
+</br>/tpdeny
+</br>拒绝传送请求</br>所有的道具和物品都需要更复杂的材料和工艺，增加了游戏的深度和挑战
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-zK1L63kZnjdFeZU2u7kBOGMhQgK7yfX&authKey=rMQ92V8gLBzHBPCAl%2FqILp58qZhdsL5mrHfyjMK%2Foc1EzVjWI8u8W1EfQPUpISzC&noverify=0&group_code=834588938
+    linkText: 开始你的世界，防止失联，加入我们！
+
+
+
+
+
+
+
+
+
+    
   - icon:
       src: /server_icons/mcdogserver.jpg
     title: mcdogserver
