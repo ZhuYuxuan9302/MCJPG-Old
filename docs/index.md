@@ -134,6 +134,13 @@ features:
     details: 版本1.20.2 不互通 离线可进</br>来LiyuPlay里体验在广袤世界探索生存的乐趣！</br>宁静祥和的午后垂钓，从零建立起自己的菜园，攻克自然生成的副本，用方块一点一点地改造这个世界……</br>在LiyuPlay里随心所欲。
     link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5YYyjfhRjWJVUF8pQMyFIp06zX5KuzzA&authKey=wQgtTF9nqLQTT9fkDuuOVDsj9PjbpRaMrk%2B6Cj0x7PQXRsFncbWFZ2edZBNC%2BBew&noverify=0&group_code=830231906
     linkText: 加入LiyuPlay
+
+  - icon:
+      src: /server_icons/NPL.jpg
+    title: NPL无界玩家
+    details: 版本Java1.21</br>NPL是一个新生的生电服务器，在这里你可以进行体验到较为轻松的生存技术玩法。</br>我们致力于打造一个忠于原版的生电社区，玩家之间可以愉快交流。服务器基于fabric+mcdr进行搭建，目前有一套比较完善的后勤系统，游戏内无op杜绝一切作弊，加入我们体验原汁原味的生电玩法
+    link:  https://qm.qq.com/q/elgE8HFeSI
+    linkText: 加入NPL无界玩家
 ---
 <script>
 export default {
