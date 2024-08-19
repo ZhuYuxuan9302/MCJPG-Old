@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 加入社区群组
-      link: https://qm.qq.com/q/C9K1fV3pSM
+      link: https://go.flweb.cn/qunmcwp
     # - theme: alt
       # text: View on GitHub
       # link: https://github.com/vuejs/vitepress
