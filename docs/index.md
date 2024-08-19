@@ -141,6 +141,13 @@ features:
     details: 版本Java1.21</br>NPL是一个新生的生电服务器，在这里你可以进行体验到较为轻松的生存技术玩法。</br>我们致力于打造一个忠于原版的生电社区，玩家之间可以愉快交流。服务器基于fabric+mcdr进行搭建，目前有一套比较完善的后勤系统，游戏内无op杜绝一切作弊，加入我们体验原汁原味的生电玩法
     link:  https://qm.qq.com/q/elgE8HFeSI
     linkText: 加入NPL无界玩家
+
+  - icon:
+      src: /server_icons/Badboys Network.png
+    title: Badboys Network
+    details: 版本JE1.8 - 1.21 类商业服 无正版验证</br>2021年一群中学生开始的服务器。历经多次迭代，这是最后一次的展演。</br>多样的小游戏，完善的反作弊
+    link:  http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AbM_6vwGmhmkT1nFLtPDbVeHW_cWJUH7&authKey=P20w%2FQTDHM6uFgn%2F%2Ftsz%2FRFil7Q9TwOESMEFpkmnXeb81WIi67M7kLU1JhvZxcEx&noverify=0&group_code=373311963
+    linkText: 加入Badboys Network
 ---
 <script>
 export default {
