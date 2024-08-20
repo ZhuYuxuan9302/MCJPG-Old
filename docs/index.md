@@ -148,6 +148,13 @@ features:
     details: 版本JE1.8 - 1.21 类商业服 无正版验证</br>2021年一群中学生开始的服务器。历经多次迭代，这是最后一次的展演。</br>多样的小游戏，完善的反作弊
     link:  http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AbM_6vwGmhmkT1nFLtPDbVeHW_cWJUH7&authKey=P20w%2FQTDHM6uFgn%2F%2Ftsz%2FRFil7Q9TwOESMEFpkmnXeb81WIi67M7kLU1JhvZxcEx&noverify=0&group_code=373311963
     linkText: 加入Badboys Network
+
+  - icon:
+      src: /server_icons/ca_icon.jpg
+    title: ChaosAwaken混沌觉醒
+    details: 版本：JAVA1.16.5 | 1.16.5Foge</br>混沌觉醒是一款由知名模组矿石菌种1.12.2复更版本的开发者（非原作者）与制作团队共同制作的新模组! 本服务器以此MOD为核心，打造了多样,有趣,具有挑战性的冒险体验.
+    link: https://qm.qq.com/q/6eiaxd2DNm
+    linkText: 点击这里!你也可以拥有这样的冒险体验!
 ---
 <script>
 export default {
