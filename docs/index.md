@@ -30,11 +30,11 @@ features:
     link: https://mcyouxi.asia/
     linkText: 实现共产，奔赴未来！
   - icon:
-      src: /server_icons/
-    title: RedStarMC社区
+      src: /server_icons/Unknown.png
+    title: RedStarMC
     details: 版本：JAVA 1.7-1.21</br>粘液科技  与  插件生存
     link: https://www.redstarmc.top
-    linkText: None
+    linkText: 前往官网
     
   - icon:
       src: /server_icons/HappyDog.jpg
