@@ -150,7 +150,7 @@ features:
     linkText: 加入Badboys Network
 
   - icon:
-      src: /server_icons/ca_icon.jpg
+      src: /server_icons/ChaosAwaken_icon.jpg
     title: ChaosAwaken混沌觉醒
     details: 版本：JAVA1.16.5 | 1.16.5Foge</br>混沌觉醒是一款由知名模组矿石菌种1.12.2复更版本的开发者（非原作者）与制作团队共同制作的新模组! 本服务器以此MOD为核心，打造了多样,有趣,具有挑战性的冒险体验.
     link: https://qm.qq.com/q/6eiaxd2DNm
