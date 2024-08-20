@@ -154,6 +154,27 @@ features:
     details: 版本JE1.8 - 1.21 类商业服 无正版验证</br>2021年一群中学生开始的服务器。历经多次迭代，这是最后一次的展演。</br>多样的小游戏，完善的反作弊
     link:  http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AbM_6vwGmhmkT1nFLtPDbVeHW_cWJUH7&authKey=P20w%2FQTDHM6uFgn%2F%2Ftsz%2FRFil7Q9TwOESMEFpkmnXeb81WIi67M7kLU1JhvZxcEx&noverify=0&group_code=373311963
     linkText: 加入Badboys Network
+
+  - icon:
+      src: /server_icons/破土豆服务器.jpg
+    title: 破土豆服务器
+    details: 版本JE1.20.4 跨版本 兼容BE 反作弊 </br>本服为公益服，不只接受无条件赞助，任何玩家都是平等的，让玩家享受最公平的游戏环境
+    link: http://gw.3114514.xyz/
+    linkText: 前往官网
+
+  - icon:
+      src: /server_icons/ChaosAwaken_icon.png
+    title: ChaosAwaken混沌觉醒
+    details: 版本：JAVA1.16.5 | 1.16.5Foge</br>混沌觉醒是一款由知名模组矿石菌种1.12.2复更版本的开发者（非原作者）与制作团队共同制作的新模组! 本服务器以此MOD为核心，打造了多样,有趣,具有挑战性的冒险体验.
+    link: https://qm.qq.com/q/6eiaxd2DNm
+    linkText: 点击这里!你也可以拥有这样的冒险体验!
+    
+  - icon:
+      src: /server_icons/方块风云国战服.jpg
+    title: 方块风云国战服
+    details: 版本BE1.21.2 类商业服 </br>这个星球上，有的地方“朱门酒肉臭，路有冻死骨”，有的地方“受命于天，既寿永昌”，有的地方“把生命献给人民解放的事业”，有的地方“以阶级斗争为纲”......但这些地方的人们都有一个共同的梦想:富强。</br>危机四伏的世界里，如何脱颖而出，成为世界之巅？</br>诚邀广大国际版玩家加入《方块风云2》我的世界基岩版1.21.2国战模拟服务器的大家庭。</br>听歌｜货币｜签到｜装备品质｜精英怪｜菜单｜反作弊｜头衔｜国战｜世界地图｜...
+    link: http://bdmc.framer.website
+    linkText: 前往官网
 ---
 <script>
 export default {
