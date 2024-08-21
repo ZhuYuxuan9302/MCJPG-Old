@@ -180,8 +180,8 @@ features:
       src: /server_icons/Thome Server.jpg
     title: Thome Server
     details: 版本Java1.21</br>一群热爱生电的人所创建的服务器，版本Java1.21，游戏内可以听music，腐竹是个超级面包人，群内提供整合包（持续更新）</br>有较为严格的规则，但是腐竹非常喜欢抽象。</br>目前不需要审核，严禁作弊（你赞助了我可以稍微放宽一些）。服内装有权限组mod，具体规则看腐竹心情定。
-    link: http://mcjpg.org
-    linkText: 前往官网
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fmnIu20oFFCPREG0zz5guy-dM8r84XwI&authKey=afN7Q6f50w1MBFMZH8V8BaCBh9xLqdeBo6f7torNhv8TrVNTQet%2BOnJKbAF%2FPh%2BX&noverify=0&group_code=862770191
+    linkText: 加入TS大家庭
 
   - icon:
       src: /server_icons/花枝鹦鹉Server.png
