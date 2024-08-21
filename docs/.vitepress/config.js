@@ -4,12 +4,12 @@ export default {
     ],
     title: 'MCJPG组织网站',
     lastUpdated: true,
-    description: 'Minecraft服务器集体宣传组织 (MSJPG)-一个致力于Minecraft服务器宣传和技术交流社区的新兴组织',
+    description: 'Minecraft服务器集体宣传组织 (MSJPG)-一个致力于Minecraft技术交流和服务器宣传的新兴组织',
     lang: 'zh-CN',
     themeConfig: {
         siteTitle: 'MCJPG组织', //站点标题
         logo: "/logo2.png",
-        description: '一个Minecraft服务器集体宣传组织',//MCCPO
+        description: '一个Minecraft服务器宣传组织',//MCJPG
         nav: [
             { text: "成员服", link: "/" },
             { text: "规则", link: "/rules/" },
@@ -29,7 +29,7 @@ export default {
             { icon: "github", link: "https://github.com/MineJPGcraft/MCJPG" },
         ],
         footer: {
-            message: 'MCJPG服务器联合组织',
+            message: 'MCJPG服务器宣传组织',
             copyright: 'Copyright © 2024-present <a href="https://mcjpg.org/">MCJPG</a>— —<a href="https://github.com/MineJPGcraft/MCJPG">我们的仓库</a>'
         },
         lastUpdatedText: "最近更新时间",
