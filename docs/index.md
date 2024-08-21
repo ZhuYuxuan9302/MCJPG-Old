@@ -175,6 +175,20 @@ features:
     details: 版本BE1.21.2 类商业服 </br>这个星球上，有的地方“朱门酒肉臭，路有冻死骨”，有的地方“受命于天，既寿永昌”，有的地方“把生命献给人民解放的事业”，有的地方“以阶级斗争为纲”......但这些地方的人们都有一个共同的梦想:富强。</br>危机四伏的世界里，如何脱颖而出，成为世界之巅？</br>诚邀广大国际版玩家加入《方块风云2》我的世界基岩版1.21.2国战模拟服务器的大家庭。</br>听歌｜货币｜签到｜装备品质｜精英怪｜菜单｜反作弊｜头衔｜国战｜世界地图｜...
     link: http://bdmc.framer.website
     linkText: 前往官网
+
+  - icon:
+      src: /server_icons/Thome Server.jpg
+    title: Thome Server
+    details: 版本Java1.21</br>一群热爱生电的人所创建的服务器，版本Java1.21，游戏内可以听music，腐竹是个超级面包人，群内提供整合包（持续更新）</br>有较为严格的规则，但是腐竹非常喜欢抽象。</br>目前不需要审核，严禁作弊（你赞助了我可以稍微放宽一些）。服内装有权限组mod，具体规则看腐竹心情定。
+    link: http://mcjpg.org
+    linkText: 前往官网
+
+  - icon:
+      src: /server_icons/花枝鹦鹉Server.png
+    title: 花枝鹦鹉Server
+    details: 版本JE1.20.1fabric 正版验证</br>主打机械动力的fabric模组服</br>内置生电常用mod和语音</br>可以来玩机械动力 养老 冒险和生存等
+    link: https://qm.qq.com/q/fDCJg7e5lm
+    linkText: 加入我们
 ---
 <script>
 export default {
