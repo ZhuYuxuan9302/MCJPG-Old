@@ -189,6 +189,13 @@ features:
     details: 版本JE1.20.1fabric 正版验证</br>主打机械动力的fabric模组服</br>内置生电常用mod和语音</br>可以来玩机械动力 养老 冒险和生存等
     link: https://qm.qq.com/q/fDCJg7e5lm
     linkText: 加入我们
+
+  - icon:
+      src: /server_icons/tutu.png
+    title: TuTuPixel
+    details: 版本：Java 1.7-1.21.1</br>养老、生电或是PVP，选一个罢！
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WDvfrnga6ufC1WWCw_VAM1ey2vjaDAKd&authKey=Ni4183L4UVNGnmY2j6IpUrOiae2TVQv4ArbAh%2FuQqTqfgdDmOV7TnFnmugQj6YT6&noverify=0&group_code=213216892
+    linkText: 点击进入QQ群蕉♂流
 ---
 <script>
 export default {
