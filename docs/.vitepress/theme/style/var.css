@@ -1,43 +1,12 @@
-@keyframes rainbow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
+/* var.css */
 :root {
-  /* 标题 */
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(
-    to right,
-    #ff0000,
-    #ff7f00,
-    #ffff00,
-    #00ff00,
-    #0000ff,
-    #8b00ff
-  );
-  
-  /* 图标背景 */
-  --vp-home-hero-image-background-image: linear-gradient(
-    to right,
-    #ff0000,
-    #ff7f00,
-    #ffff00,
-    #00ff00,
-    #0000ff,
-    #8b00ff
-  );
-  --vp-home-hero-image-filter: blur(150px);
-  --vp-font-family-base: "HYWenHei-55S";
-  --vp-font-family-mono: "HYWenHei-55S";
-}
-
-.VPHomeHero .name {
-  background-size: 200% 200%;
-  animation: rainbow 10s ease infinite;
-}
-
-.VPHomeHero .image {
-  background-size: 200% 200%;
-  animation: rainbow 10s ease infinite;
-}
+    /* 标题 */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: linear-gradient( 135deg, #00FFE0 10%, #EB00FF 100%);
+    
+    /* 图标背景 */
+    --vp-home-hero-image-background-image: linear-gradient( 135deg, #1dbbfa 10%, #2600ff 100%);
+    --vp-home-hero-image-filter: blur(150px);
+    --vp-font-family-base: "HYWenHei-55S"
+    --vp-font-family-mono: "HYWenHei-55S"
+  }
